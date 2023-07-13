@@ -22,8 +22,9 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
+
 		log.info("Test case successfully execusted!!");
+		log.info("Test case second execusted!!");
 		assertEquals(true, true);
 	}
 
