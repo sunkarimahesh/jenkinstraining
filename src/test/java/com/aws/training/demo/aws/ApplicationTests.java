@@ -21,7 +21,7 @@ class ApplicationTests {
 	public static Logger log = LoggerFactory.getLogger(ApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	public contextLoads() {
 
 		log.info("Test case successfully execusted!!");
 		log.info("Test case second execusted!!");
